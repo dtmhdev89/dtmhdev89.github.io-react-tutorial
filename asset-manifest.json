@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/dtmhdev89.github.io-react-tutorial/static/css/main.bf04d39a.chunk.css",
-    "main.js": "/dtmhdev89.github.io-react-tutorial/static/js/main.39777336.chunk.js",
-    "main.js.map": "/dtmhdev89.github.io-react-tutorial/static/js/main.39777336.chunk.js.map",
+    "main.js": "/dtmhdev89.github.io-react-tutorial/static/js/main.a77126ff.chunk.js",
+    "main.js.map": "/dtmhdev89.github.io-react-tutorial/static/js/main.a77126ff.chunk.js.map",
     "runtime-main.js": "/dtmhdev89.github.io-react-tutorial/static/js/runtime-main.403e35c7.js",
     "runtime-main.js.map": "/dtmhdev89.github.io-react-tutorial/static/js/runtime-main.403e35c7.js.map",
-    "static/js/2.365268e7.chunk.js": "/dtmhdev89.github.io-react-tutorial/static/js/2.365268e7.chunk.js",
-    "static/js/2.365268e7.chunk.js.map": "/dtmhdev89.github.io-react-tutorial/static/js/2.365268e7.chunk.js.map",
+    "static/js/2.74b3f0b1.chunk.js": "/dtmhdev89.github.io-react-tutorial/static/js/2.74b3f0b1.chunk.js",
+    "static/js/2.74b3f0b1.chunk.js.map": "/dtmhdev89.github.io-react-tutorial/static/js/2.74b3f0b1.chunk.js.map",
     "static/js/3.63f1cea6.chunk.js": "/dtmhdev89.github.io-react-tutorial/static/js/3.63f1cea6.chunk.js",
     "static/js/3.63f1cea6.chunk.js.map": "/dtmhdev89.github.io-react-tutorial/static/js/3.63f1cea6.chunk.js.map",
     "index.html": "/dtmhdev89.github.io-react-tutorial/index.html",
     "static/css/main.bf04d39a.chunk.css.map": "/dtmhdev89.github.io-react-tutorial/static/css/main.bf04d39a.chunk.css.map",
-    "static/js/2.365268e7.chunk.js.LICENSE.txt": "/dtmhdev89.github.io-react-tutorial/static/js/2.365268e7.chunk.js.LICENSE.txt"
+    "static/js/2.74b3f0b1.chunk.js.LICENSE.txt": "/dtmhdev89.github.io-react-tutorial/static/js/2.74b3f0b1.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.403e35c7.js",
-    "static/js/2.365268e7.chunk.js",
+    "static/js/2.74b3f0b1.chunk.js",
     "static/css/main.bf04d39a.chunk.css",
-    "static/js/main.39777336.chunk.js"
+    "static/js/main.a77126ff.chunk.js"
   ]
 }
