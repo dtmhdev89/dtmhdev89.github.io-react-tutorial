@@ -1,4 +1,4 @@
-import React, {Component} from 'react'
+import React, {Component} from 'react';
 
 //class Component
 // class Table extends Component {
@@ -41,6 +41,7 @@ const TableHeader = () => {
       <tr>
         <th>Name</th>
         <th>Job</th>
+        <th>Action</th>
       </tr>
     </thead>
   );
@@ -52,6 +53,9 @@ const TableBody = (props) => {
       <tr key={index}>
         <td>{row.name}</td>
         <td>{row.job}</td>
+        <td>
+          <button onClick={() => props.removeCharacter(index)}>Delete</button>
+        </td>
       </tr>
     )
   });
@@ -65,12 +69,12 @@ const TableBody = (props) => {
 
 class Table extends Component {
   render() {
-    const {characterData} = this.props;
+    const {characterData, removeCharacter} = this.props;
 
     return (
       <table>
         <TableHeader />
-        <TableBody characterData={characterData}/>
+        <TableBody characterData={characterData} removeCharacter={removeCharacter}/>
       </table>
     );
   }
