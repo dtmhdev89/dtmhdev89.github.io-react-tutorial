@@ -1,10 +1,11 @@
+import React, { Component } from 'react';
 import './App.css';
 import './css/main.css';
 import Table from './Table';
 
-function App() {
-  const characters = [
-    {
+class App extends Component {
+  state = {
+    characters: [{
       name: 'Charlie Hieu',
       job: 'Janitor',
     },
@@ -19,17 +20,32 @@ function App() {
     {
       name: 'Dennis',
       job: 'Bartender',
-    }
-  ]
+    }]
+  };
 
-  return (
-    <div className="App">
-      <h1 className="site-heading">Hello, React!</h1>
-      <div className="container">
-        <Table characterData={characters} />
+  removeCharacter = (index) => {
+    const {characters} = this.state;
+
+    this.setState({
+      characters: characters.filter((character, i) => {
+        return i !== index
+      })
+    })
+  }
+  render(){
+    const { characters } = this.state;
+    
+    return (
+      <div className="App">
+        <h1 className="site-heading">Hello, React!</h1>
+        <div className="container">
+          <Table 
+            characterData={characters}
+            removeCharacter={this.removeCharacter} />
+        </div>
       </div>
-    </div>
-  );
+    );
+  }
 }
 
 export default App;
