@@ -1,22 +1,23 @@
 {
   "files": {
     "main.css": "/dtmhdev89.github.io-react-tutorial/static/css/main.398031c8.chunk.css",
-    "main.js": "/dtmhdev89.github.io-react-tutorial/static/js/main.3eb8fc88.chunk.js",
-    "main.js.map": "/dtmhdev89.github.io-react-tutorial/static/js/main.3eb8fc88.chunk.js.map",
-    "runtime-main.js": "/dtmhdev89.github.io-react-tutorial/static/js/runtime-main.90b3be30.js",
-    "runtime-main.js.map": "/dtmhdev89.github.io-react-tutorial/static/js/runtime-main.90b3be30.js.map",
-    "static/js/2.6e1fd3bd.chunk.js": "/dtmhdev89.github.io-react-tutorial/static/js/2.6e1fd3bd.chunk.js",
-    "static/js/2.6e1fd3bd.chunk.js.map": "/dtmhdev89.github.io-react-tutorial/static/js/2.6e1fd3bd.chunk.js.map",
-    "static/js/3.6804ceed.chunk.js": "/dtmhdev89.github.io-react-tutorial/static/js/3.6804ceed.chunk.js",
-    "static/js/3.6804ceed.chunk.js.map": "/dtmhdev89.github.io-react-tutorial/static/js/3.6804ceed.chunk.js.map",
+    "main.js": "/dtmhdev89.github.io-react-tutorial/static/js/main.a52eaf14.chunk.js",
+    "main.js.map": "/dtmhdev89.github.io-react-tutorial/static/js/main.a52eaf14.chunk.js.map",
+    "runtime-main.js": "/dtmhdev89.github.io-react-tutorial/static/js/runtime-main.37d72900.js",
+    "runtime-main.js.map": "/dtmhdev89.github.io-react-tutorial/static/js/runtime-main.37d72900.js.map",
+    "static/js/2.8dc97b14.chunk.js": "/dtmhdev89.github.io-react-tutorial/static/js/2.8dc97b14.chunk.js",
+    "static/js/2.8dc97b14.chunk.js.map": "/dtmhdev89.github.io-react-tutorial/static/js/2.8dc97b14.chunk.js.map",
+    "static/js/3.171e1b83.chunk.js": "/dtmhdev89.github.io-react-tutorial/static/js/3.171e1b83.chunk.js",
+    "static/js/3.171e1b83.chunk.js.map": "/dtmhdev89.github.io-react-tutorial/static/js/3.171e1b83.chunk.js.map",
     "index.html": "/dtmhdev89.github.io-react-tutorial/index.html",
     "static/css/main.398031c8.chunk.css.map": "/dtmhdev89.github.io-react-tutorial/static/css/main.398031c8.chunk.css.map",
-    "static/js/2.6e1fd3bd.chunk.js.LICENSE.txt": "/dtmhdev89.github.io-react-tutorial/static/js/2.6e1fd3bd.chunk.js.LICENSE.txt"
+    "static/js/2.8dc97b14.chunk.js.LICENSE.txt": "/dtmhdev89.github.io-react-tutorial/static/js/2.8dc97b14.chunk.js.LICENSE.txt",
+    "static/media/sharepost.9034e8e1.png": "/dtmhdev89.github.io-react-tutorial/static/media/sharepost.9034e8e1.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.90b3be30.js",
-    "static/js/2.6e1fd3bd.chunk.js",
+    "static/js/runtime-main.37d72900.js",
+    "static/js/2.8dc97b14.chunk.js",
     "static/css/main.398031c8.chunk.css",
-    "static/js/main.3eb8fc88.chunk.js"
+    "static/js/main.a52eaf14.chunk.js"
   ]
 }
