@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/dtmhdev89.github.io-react-tutorial/static/css/main.398031c8.chunk.css",
-    "main.js": "/dtmhdev89.github.io-react-tutorial/static/js/main.a52eaf14.chunk.js",
-    "main.js.map": "/dtmhdev89.github.io-react-tutorial/static/js/main.a52eaf14.chunk.js.map",
+    "main.js": "/dtmhdev89.github.io-react-tutorial/static/js/main.551e88c1.chunk.js",
+    "main.js.map": "/dtmhdev89.github.io-react-tutorial/static/js/main.551e88c1.chunk.js.map",
     "runtime-main.js": "/dtmhdev89.github.io-react-tutorial/static/js/runtime-main.37d72900.js",
     "runtime-main.js.map": "/dtmhdev89.github.io-react-tutorial/static/js/runtime-main.37d72900.js.map",
     "static/js/2.8dc97b14.chunk.js": "/dtmhdev89.github.io-react-tutorial/static/js/2.8dc97b14.chunk.js",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.37d72900.js",
     "static/js/2.8dc97b14.chunk.js",
     "static/css/main.398031c8.chunk.css",
-    "static/js/main.a52eaf14.chunk.js"
+    "static/js/main.551e88c1.chunk.js"
   ]
 }
